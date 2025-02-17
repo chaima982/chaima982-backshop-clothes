@@ -1,0 +1,26 @@
+.rouge {
+    background-color: rgb(244, 104, 104);
+}
+
+.bleu {
+    background-color: rgb(69, 127, 243);
+}
+
+.jaune {
+    background-color: yellow;
+}
+
+.vert {
+    background-color: rgb(142, 208, 142);
+}
+
+.bleuclaire {
+    background-color: rgb(14, 209, 209);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
